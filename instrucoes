@@ -1,0 +1,11 @@
+Como executar:
+a) Abra um editor de código e cole o JavaScript em um arquivo.
+b) Salve o arquivo como tenis.html (porque ele já contém tudo necessário).
+c) Abra o arquivo no navegador.
+Controles:
+- Jogador 1 (esquerda):
+W para subir.
+S para descer.
+- Jogador 2 (direita):
+↑ (seta para cima) para subir.
+↓ (seta para baixo) para descer.
